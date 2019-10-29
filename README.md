@@ -18,5 +18,9 @@ npm run build
 
 https://vuetifycalendar.netlify.com/
 
+### Firebase hosting
+
+https://calendar-vue-vuetify.firebaseapp.com/
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
