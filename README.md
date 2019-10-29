@@ -14,16 +14,9 @@ npm run serve
 ```
 npm run build
 ```
+### Netlify hosting
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+https://vuetifycalendar.netlify.com/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
