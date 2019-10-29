@@ -16,7 +16,7 @@ npm run build
 ```
 ### Netlify hosting
 
-Netlify Hosting: https://vuetifycalendar.netlify.com/
+https://vuetifycalendar.netlify.com/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
